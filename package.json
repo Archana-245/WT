@@ -1,0 +1,22 @@
+{
+  "name": "p2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archana-245/WT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Archana-245/WT/issues"
+  },
+  "homepage": "https://github.com/Archana-245/WT#readme",
+  "dependencies": {
+    "express": "^4.15.2"
+  }
+}
